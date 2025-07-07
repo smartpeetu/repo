@@ -3,5 +3,5 @@ region = "ap-south-1"
 }
 
 resource "aws_s3_bucket" "example" {
-  bucket = "my-tf-example-bucket-999"
+  bucket = "my-tf-smartpreetu-bucket-1979"
 }
